@@ -1,10 +1,9 @@
 //
 //  SFSymbolsGridApp.swift
 //  SFSymbolsGrid
-//
+// m7606225@gmail.com
 //  Created by Mohammed Abunada on 2020-06-25.
-//
-
+// https://github.com/m760622
 import SwiftUI
 
 @main

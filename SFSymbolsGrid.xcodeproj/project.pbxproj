@@ -11,6 +11,7 @@
 		4F91203C24A4455000E5A40C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F91203B24A4455000E5A40C /* ContentView.swift */; };
 		4F91203E24A4455100E5A40C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F91203D24A4455100E5A40C /* Assets.xcassets */; };
 		4F91204124A4455100E5A40C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4F91204024A4455100E5A40C /* Preview Assets.xcassets */; };
+		4F91204924A4458300E5A40C /* sfSymbols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F91204824A4458300E5A40C /* sfSymbols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4F91203D24A4455100E5A40C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4F91204024A4455100E5A40C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4F91204224A4455100E5A40C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4F91204824A4458300E5A40C /* sfSymbols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sfSymbols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				4F91203924A4455000E5A40C /* SFSymbolsGridApp.swift */,
 				4F91203B24A4455000E5A40C /* ContentView.swift */,
+				4F91204824A4458300E5A40C /* sfSymbols.swift */,
 				4F91203D24A4455100E5A40C /* Assets.xcassets */,
 				4F91204224A4455100E5A40C /* Info.plist */,
 				4F91203F24A4455100E5A40C /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F91203C24A4455000E5A40C /* ContentView.swift in Sources */,
+				4F91204924A4458300E5A40C /* sfSymbols.swift in Sources */,
 				4F91203A24A4455000E5A40C /* SFSymbolsGridApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
